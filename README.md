@@ -1,0 +1,2 @@
+# LOS
+This is a LOAN ORIGINATION SYSTEM project.
